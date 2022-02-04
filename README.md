@@ -4,7 +4,7 @@
 This app allows you to change text color using a button. 
 
 ### App Walk-though
-<img src="=https://imgur.com/a/KEb1yWC" width=200><br>
+<img src="https://imgur.com/4ublJOW.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
