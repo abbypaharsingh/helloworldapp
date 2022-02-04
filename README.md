@@ -3,7 +3,7 @@
 ### App Description
 This app allows you to change text color using a button. 
 
-### App Walk-though
+### App Walk-through
 <img src="https://imgur.com/4ublJOW.gif" width=200><br>
 
 ### Required User Stories
